@@ -1,31 +1,37 @@
-license란?
+# license란?
 - 나의 project 사용 조건에 관한 법적 근거. 프로젝트에 license가 없으면 기본적으로 저작권자가 모든 권리를 보유한다.
 
-대표적인 licenses
+# 대표적인 licenses
 
-MIT License
+- MIT License
+  
 가장 단순하고 관대한 라이선스 중 하나.
 사용자가 소스 코드를 자유롭게 복사, 수정, 배포, 상업적으로 사용할 수 있다.
 사용 시 원래 저작권자와 라이선스 정보를 포함해야 함.
 오픈 소스 프로젝트에서 많이 사용되며, 사용자의 제약을 최소화하는 방식임.
 
-Apache License 2.0
+- Apache License 2.0
+  
 MIT 라이선스와 비슷하게 소스 코드의 사용, 수정, 배포가 자유롭다.
 특허권 보증 및 관련 조항이 포함되어 있어 특허 관련 문제가 있을 경우 사용자 보호가 포함됨.
 변경 사항에 대해 명시적으로 알리고, 원본 라이선스와 함께 제공해야 함.
 
-GNU General Public License (GPL)
+- GNU General Public License (GPL)
+  
 오픈 소스 소프트웨어에 사용되는 가장 강력한 "카피레프트" 라이선스.
 소스 코드의 사용, 수정, 배포는 자유롭지만, 소스 코드를 수정하거나 이를 이용해 새로운 소프트웨어를 만들 경우 반드시 해당 코드를 공개하고 GPL로 배포해야 함.
 GPL은 소프트웨어의 자유와 공유를 극대화하는 데 중점을 둔다.
 
-BSD License (Berkeley Software Distribution)
+- BSD License (Berkeley Software Distribution)
+
 MIT 라이선스와 유사한 매우 관대한 라이선스.
 사용자가 소스 코드를 사용, 수정, 배포할 수 있으며, 원본 저작권을 명시하는 조건만 필요함.
 
-Creative Commons (CC)
+- Creative Commons (CC)
+
 주로 콘텐츠(예: 문서, 이미지, 영상 등)에 적용되는 라이선스.
 오픈 소스 코드가 아닌 문서나 예제 코드에도 사용됨.
 
-Mozilla Public License 2.0 (MPL)
+- Mozilla Public License 2.0 (MPL)
+
 소스 코드 수준에서 카피레프트를 적용하는 라이선스로, MPL을 적용한 파일 내의 코드는 반드시 공개되어야 하지만, 다른 파일은 반드시 공개하지 않아도 됨.
